@@ -11,7 +11,7 @@
         }
     },
     "require": {
-        "fishpig/magento2-remove-inventory": "dev-main"
+        "fishpig/magento2-remove-inventory": "*"
     },
     "replace": {
         "magento/inventory-composer-installer": "*"
